@@ -1,9 +1,17 @@
 :root {
-  --background: #0b0b0b;
-  --foreground: #f1eee8;
-  --accent: #d8794f;
-  --muted: #a5a29b;
-  --border: #262626;
+  --background: #f4ede0;
+  --foreground: #1a2b3a;
+  --accent: #8fbce6;
+  --muted: #6b7c8c;
+  --border: #d8cfc0;
+}
+
+[data-theme="software"] {
+  --background: #f4f4f1;
+  --foreground: #111111;
+  --accent: #245cff;
+  --muted: #6b6b6b;
+  --border: #dcdcdc;
 }
 
 body {
